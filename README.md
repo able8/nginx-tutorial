@@ -6,7 +6,6 @@
 
 ## Summary
 
-* [介绍](README.md)
 * [安装](chapters/install.md)
 * [1. 基本介绍和配置文件语法](chapters/1.md)
 * [2. 反向代理](chapters/2.md)
